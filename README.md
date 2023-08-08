@@ -8,4 +8,4 @@ In summary, my data is from The Guttmacher Institute which compiles comprehensiv
 Recording the rates of pregnancy, childbirth, and abortion across various time periods and age categories serves to provide a comprehensive depiction of the shifts in individuals' reproductive experiences over the last four decades
 <h2>Sourcing</h2>
 <h2> Data Visualizations
-<h2></h2>Data Analysis 
+<h2>Data Analysis 
