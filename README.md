@@ -9,7 +9,8 @@ Recording the rates of pregnancy, childbirth, and abortion across various time p
 <h2>Sourcing</h2>
 I conducted an examination of the "Pregnancies, Births and Abortions Rates in the United States" dataset, which was obtained from the Guttmacher Institute. The crux of my investigation pertains to the statistical counts of pregnancies including births, abortions, and fetal losses from 1973 to 2017.
 
-# **Interview Contact** <small>Smaller Font Size</small>
+# **Interview Contact**
+
 
 
 
