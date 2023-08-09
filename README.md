@@ -41,3 +41,5 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 * Birth rates are calculated uniformly and consistently across all states. The dataset includes accurate and comprehensive birth rate data for all states in 2017.
 * Birth rates are calculated using the same methodology for all age groups. The dataset provides accurate and complete birth rate data for all age groups in 2017. 
 
+### Analysis
+1. Which age group experienced the highest and lowest pregnancy rates during the observed period?
