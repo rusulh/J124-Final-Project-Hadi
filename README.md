@@ -26,6 +26,7 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 
 ## Data Analysis Process
 I initiated my analysis by performing data cleaning as the initial step. Upon examination, the data displayed a predominantly normalized state, necessitating minimal refinement.
+
 Scope of analysis: in the context of a dataset pertains to the specific boundaries and parameters that outline the extent and focus of the study conducted on the dataset
 
 1. Which age group experienced the highest and lowest pregnancy rates during the observed period?
