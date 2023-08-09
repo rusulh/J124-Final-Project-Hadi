@@ -12,7 +12,7 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 ### Interview Contacts
 1) Isaac Maddow-Zimet, The Guttmacher Institute 
 	* Email: imaddowzimet@guttmacher.org
-	* Phone Number: (212)248-1111
+	* Phone Number: (212)248-1111 
 	* Isaac Maddow-Zimet became a part of the Guttmacher Institute in 2010, and he has held his present role since 2017. His primary research focuses on topics such as unintended pregnancy, adolescent sexual health and conduct, American sex education, and the issue of unsafe abortion in nations where abortion is prohibited or significantly regulated.
 2) Sharyn Turner, the Nevada County Superintendent of Schools Health Coordinator
 	* Email: 
