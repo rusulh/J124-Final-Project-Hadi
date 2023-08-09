@@ -29,7 +29,7 @@ I initiated my analysis by performing data cleaning as the initial step. Upon ex
 
 
 Scope of analysis: in the context of a dataset pertains to the specific boundaries and parameters that outline the extent and focus of the study conducted on the dataset
-1. Which age group experienced the highest and lowest pregnancy rates during the observed period?
+1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
 2. How have pregnancy rates varied among different age groups of women over the years?
 3. Is there a noticeable trend in teenage pregnancy rates from 1973 to 2017?
 4. Which state had the highest overall birth rate in 2017, and which had the lowest?
@@ -42,4 +42,4 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 * Birth rates are calculated using the same methodology for all age groups. The dataset provides accurate and complete birth rate data for all age groups in 2017. 
 
 ### Analysis
-1. Which age group experienced the highest and lowest pregnancy rates during the observed period?
+1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
