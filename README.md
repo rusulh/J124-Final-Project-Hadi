@@ -22,8 +22,7 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 ### Additional Sources 
 <h2> Data Visualizations
 
-	1. https://www.datawrapper.de/_/1AgeA/
-
+https://www.datawrapper.de/_/1AgeA/
 
 
  
