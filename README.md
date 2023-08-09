@@ -36,5 +36,8 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 5. Which age group had the highest birth rate nationally in 2017, and which had the lowest?
 
 ### Key Assumptions
-
+* All questions were addressed solely using the provided dataset.
+* The dataset covers a significant number of years to capture meaningful trends. The data for each age group is complete and representative. 
+* Birth rates are calculated uniformly and consistently across all states. The dataset includes accurate and comprehensive birth rate data for all states in 2017.
+* Birth rates are calculated using the same methodology for all age groups. The dataset provides accurate and complete birth rate data for all age groups in 2017. 
 
