@@ -13,11 +13,12 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 1) Isaac Maddow-Zimet, The Guttmacher Institute 
 	* Email: imaddowzimet@guttmacher.org
 	* Phone Number: (212)248-1111 
-	* Isaac Maddow-Zimet became a part of the Guttmacher Institute in 2010, and he has held his present role since 2017. His primary research focuses on topics such as unintended pregnancy, adolescent sexual health and conduct, American sex education, and the issue of unsafe abortion in nations where abortion is prohibited or significantly regulated.
+	* Isaac Maddow-Zimet became a part of the Guttmacher Institute in 2010, and he has held his present role since 2017. His primary research focuses on topics such as unintended pregnancy, adolescent sexual health and conduct, American sex education, and the issue of unsafe abortion in nations where abortion is prohibited or significantly regulated. I want to interview him and ask to further questions regarding the abortion rates in the United States and what are the causes of the high rates. 
 2) Kathryn Kost, The Guttmacher Institute
 	* Email: kkost@guttmacher.org
 	* Phone Number: (212)248-1111
-	* Within the Guttmacher Institute, Dr. Kost's research encompasses a variety of subjects essential for comprehending reproductive behaviors and patterns within the United States. This includes examining sexual behavior trends, profiling abortion patients, investigating the health impacts of unintended pregnancies, and providing estimations related to contraceptive effectiveness.
+	* Within the Guttmacher Institute, Dr. Kost's research encompasses a variety of subjects essential for comprehending reproductive behaviors and patterns within the United States. This includes examining sexual behavior trends, profiling abortion patients, investigating the health impacts of unintended pregnancies, and providing estimations related to contraceptive effectiveness. I want to ask how she investigates the health impacts and how she is able to prove estimations. 
 
+### Additional Sources 
 <h2> Data Visualizations
 <h2>Data Analysis Process
