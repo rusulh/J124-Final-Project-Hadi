@@ -28,7 +28,7 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 
 ### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
 <img width="717" alt="Screen Shot 2023-08-09 at 1 38 09 AM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/df5dce7f-8f8d-467b-b579-7ead66bf2247">
- 
+
 ## Data Analysis Process
 I initiated my analysis by performing data cleaning as the initial step. Upon examination, the data displayed a predominantly normalized state, necessitating minimal refinement.
 Scope of analysis: in the context of a dataset pertains to the specific boundaries and parameters that outline the extent and focus of the study conducted on the dataset
