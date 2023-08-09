@@ -27,6 +27,7 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
  
 <h2>Data Analysis Process
 
+
 I initiated my analysis by performing data cleaning as the initial step. Upon examination, the data displayed a predominantly normalized state, necessitating minimal refinement.
 
 
