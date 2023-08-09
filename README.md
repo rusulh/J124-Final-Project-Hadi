@@ -10,6 +10,14 @@ Recording the rates of pregnancy, childbirth, and abortion across various time p
 I conducted an examination of the "Pregnancies, Births and Abortions Rates in the United States" dataset, which was obtained from the Guttmacher Institute. The crux of my investigation pertains to the statistical counts of pregnancies including births, abortions, and fetal losses from 1973 to 2017.
 
 ### Interview Contacts
+1) Jill Blake, the Public Health Director of Nevada County
+	* Email: 
+	* Phone Number: 
+	* As the Public Health Director of Nevada County, Blake must have in-depth knowledge about the current and historical shortcomings in local vaccination efforts. Additionally, Blake can contextualize vaccination trends in the greater hesitancy problem that has received national attention due to the Covid-19 pandemic.
+2) Sharyn Turner, the Nevada County Superintendent of Schools Health Coordinator
+	* Email: 
+	* Phone Number:
+	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses of ongoing solutions.
 
 
 
