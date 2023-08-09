@@ -14,14 +14,10 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 	* Email: imaddowzimet@guttmacher.org
 	* Phone Number: (212)248-1111 
 	* Isaac Maddow-Zimet became a part of the Guttmacher Institute in 2010, and he has held his present role since 2017. His primary research focuses on topics such as unintended pregnancy, adolescent sexual health and conduct, American sex education, and the issue of unsafe abortion in nations where abortion is prohibited or significantly regulated.
-2) Sharyn Turner, the Nevada County Superintendent of Schools Health Coordinator
-	* Email: 
-	* Phone Number:
-	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses of ongoing solutions.
-
-
-
-
+2) Kathryn Kost, The Guttmacher Institute
+	* Email: kkost@guttmacher.org
+	* Phone Number: (212)248-1111
+	* Within the Guttmacher Institute, Dr. Kost's research encompasses a variety of subjects essential for comprehending reproductive behaviors and patterns within the United States. This includes examining sexual behavior trends, profiling abortion patients, investigating the health impacts of unintended pregnancies, and providing estimations related to contraceptive effectiveness.
 
 <h2> Data Visualizations
 <h2>Data Analysis Process
