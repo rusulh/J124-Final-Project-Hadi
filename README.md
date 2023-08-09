@@ -26,9 +26,13 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 ### Additional Sources 
 <h2> Data Visualizations
 
-### 1) [Birth Rates in 2017](<iframe title="Birth Rates in 2017" aria-label="Map" id="datawrapper-chart-1AgeA" src="https://datawrapper.dwcdn.net/1AgeA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="523" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>)
-<img width="717" alt="Screen Shot 2023-08-09 at 1 38 09 AM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/8cc9cd4c-4118-436e-b49a-aadbc5dce2de">
+### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
+
+
+
+
+
+
  
 ## Data Analysis Process
 I initiated my analysis by performing data cleaning as the initial step. Upon examination, the data displayed a predominantly normalized state, necessitating minimal refinement.
