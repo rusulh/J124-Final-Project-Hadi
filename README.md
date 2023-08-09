@@ -48,6 +48,7 @@ Rows: Year
 Values: Pregnancy Count for group age 15-17
 
 <img width="127" alt="total pregnancy count by year   age group 15-17" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/264ed23f-1ef3-41ff-a45e-dabfd7caa77b">
+
 > The total pregnancy count by each year and age group 15-17 is 2405.7
 
 2. 
