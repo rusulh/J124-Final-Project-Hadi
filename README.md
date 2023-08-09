@@ -23,6 +23,6 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 <h2> Data Visualizations
 
 ### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
  
 <h2>Data Analysis Process
