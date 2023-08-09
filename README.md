@@ -11,6 +11,5 @@ I conducted an examination of the "Pregnancies, Births and Abortions Rates in th
 ## **Subheading**
 
 
-
 <h2> Data Visualizations
 <h2>Data Analysis Process
