@@ -1,7 +1,7 @@
 <h1> J 124 Final Project: Pregnancies, Births and Abortions in the United States, 1973–2017
 
 <h2> By Rusul Hadi</h2>
-<h2> Story Summary
+<h2> Story Summary </h2>
 
 In summary, my data analysis identified that over the past twenty-five years, pregnancy rates have experienced a decline among women aged 24 or younger. These observed patterns highlight distinct shifts in birth and abortion rates.
 The trends at the state level largely align with national trends over time. However, notable geographic variations emerge: In 2017, pregnancy rates were notably higher among younger individuals in the South and Southwest regions, compared to other areas. These trends led me to investigate the total pregnancy count in each year among different group ages, as well as how these rates varied. 
