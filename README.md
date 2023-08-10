@@ -31,7 +31,7 @@ I initiated my analysis by performing data cleaning as the initial step. Upon ex
 
 Scope of analysis: in the context of a dataset pertains to the specific boundaries and parameters that outline the extent and focus of the study conducted on the dataset
 1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
-2. How have pregnancy rates varied among different age groups of women over the years?
+2. What was the birth rate for women aged 30-34 in California in 2017?
 3. Is there a noticeable trend in teenage pregnancy rates from 1973 to 2017?
 4. Which state had the highest overall birth rate in 2017, and which had the lowest?
 5. Which age group had the highest birth rate nationally in 2017, and which had the lowest?
@@ -52,4 +52,4 @@ Values: Pregnancy Count for group age 15-17
 
 > The total pregnancy count by each year and age group 15-17 is 2405.7
 
-2. 
+2. What was the birth rate for women aged 30-34 in California in 2017?
