@@ -44,6 +44,7 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 
 ### Analysis
 1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
+
 First, I created a pivot table. In the pivot table I dragged the following fields to the respective areas:
 Rows: Year
 Values: Pregnancy Count for group age 15-17
@@ -53,4 +54,5 @@ Values: Pregnancy Count for group age 15-17
 > The total pregnancy count by each year and age group 15-17 is 2405.7
 
 2. What was the birth rate for women aged 30-34 in California in 2017?
+
 I filtered and sorted the data to focus on California, then I found the row corresponding to the age-group 30-34 and ientified the birth rate value in the corresponding cell for California and the age-group 30-34.
