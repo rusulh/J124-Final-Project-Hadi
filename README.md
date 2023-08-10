@@ -34,7 +34,7 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 2. What was the birth rate for women aged 30-34 in California in 2017?
 3. Calculate the average birth rate for women aged 40-44 across all states in 2017?
 4. Which age group had the highest pregnancy rate in the year 2000?
-5. Which age group had the highest birth rate nationally in 2017, and which had the lowest?
+5. Using a pivot table, find the total number of pregnancies among teenagers (age 30-39) in the year 1980?
 
 ### Key Assumptions
 * All questions were addressed solely using the provided dataset.
@@ -84,3 +84,11 @@ I filtered and sorted the data to focus on the year 2000, then I observed the hi
 <img width="1186" alt="Screen Shot 2023-08-09 at 6 47 36 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/cb749204-09f3-423d-8832-a079b7053419">
 
 > The age group with the highest pregnancy rate in the year 2000 is 18-19.
+
+5. Using a pivot table, find the total number of pregnancies among teenagers (age 30-39) in the year 1980?
+
+I created a pivot table. In the pivot table I dragged the following fields to the respective areas:
+Rows: Year 1980
+Values (SUM): Pregnancy Count for group age 30-39
+
+
