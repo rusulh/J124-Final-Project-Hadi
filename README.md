@@ -8,7 +8,7 @@ The trends at the state level largely align with national trends over time. Howe
 
 <h2>Sourcing</h2>
 
-I conducted an examination of the [Pregnancies, Births and Abortions Rates in the United States](https://www.guttmacher.org/report/pregnancies-births-abortions-in-united-states-1973-2017), which was obtained from the Guttmacher Institute. The crux of my investigation pertains to the statistical counts of pregnancies including births, abortions, and fetal losses from 1973 to 2017.
+I conducted an examination of the [Pregnancies, Births and Abortions Rates in the United States](https://www.guttmacher.org/report/pregnancies-births-abortions-in-united-states-1973-2017) which was obtained from the Guttmacher Institute. The crux of my investigation pertains to the statistical counts of pregnancies including births, abortions, and fetal losses from 1973 to 2017.
 
 ### Interview Contacts
 1) Isaac Maddow-Zimet, The Guttmacher Institute 
