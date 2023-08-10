@@ -56,7 +56,9 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
 
 First, I created a pivot table. In the pivot table I dragged the following fields to the respective areas:
+
 Rows: Year
+
 Values: Pregnancy Count for group age 15-17
 
 <img width="125" alt="Screen Shot 2023-08-09 at 10 22 11 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/5ac255d7-c40b-4066-9a9b-7f76d03107e1">
