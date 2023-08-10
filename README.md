@@ -27,7 +27,6 @@ I conducted an examination of the [Pregnancies, Births and Abortions Rates in th
    * This information can be used to identify additional trends among teen birth rate in the United States over the years
 
 2) [Pregnancy Rates Among U.S. Women](https://www.cdc.gov/nchs/data/hestat/pregnancy/2010_pregnancy_rates.htm)
-
       * This source provides pregnancy rate statistics of women in the United States.
 
 <h2> Data Visualizations
