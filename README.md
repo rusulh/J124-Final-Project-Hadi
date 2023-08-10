@@ -80,3 +80,7 @@ then, I used the formula Average = Total Sum of Birth Rates / Number of States
 4. Which age group had the highest pregnancy rate in the year 2000?
 
 I filtered and sorted the data to focus on the year 2000, then I observed the highest pregnancy rate among the different ages. 
+
+<img width="1186" alt="Screen Shot 2023-08-09 at 6 47 36 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/cb749204-09f3-423d-8832-a079b7053419">
+
+> The age group with the highest pregnancy rate in the year 2000 is 18-19.
