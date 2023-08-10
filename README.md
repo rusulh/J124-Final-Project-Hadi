@@ -66,3 +66,8 @@ I filtered and sorted the data to focus on California, then I found the row corr
 I filtered the data to focus on the age-group 15-17, then I clculated the sum of birth rates for women aged 40-44 across all states. I counted the number of states in the dataset, then divided the total sum of birth rates by the number of states to calculate the average birth rate for women aged 40-44. I used the avergae formula:
 
 Average = Total Sum of Birth Rates / Number of States
+
+<img width="1149" alt="Screen Shot 2023-08-09 at 6 36 22 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/c7335039-d013-4572-8f7a-46561e9bcb78">
+
+> The sum of birth rates for women aged 40-44 across all states is 401.3
+
