@@ -32,7 +32,7 @@ I initiated my analysis by performing data cleaning as the initial step. Upon ex
 Scope of analysis: in the context of a dataset pertains to the specific boundaries and parameters that outline the extent and focus of the study conducted on the dataset
 1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
 2. What was the birth rate for women aged 30-34 in California in 2017?
-3. Is there a noticeable trend in teenage pregnancy rates from 1973 to 2017?
+3. Calculate the average birth rate for women aged 40-44 across all states in 2017?
 4. Which state had the highest overall birth rate in 2017, and which had the lowest?
 5. Which age group had the highest birth rate nationally in 2017, and which had the lowest?
 
@@ -61,3 +61,8 @@ I filtered and sorted the data to focus on California, then I found the row corr
 
 > The birth rate among women aged 30 to 40 in 2017 was recorded as 101.7
 
+3. Calculate the average birth rate for women aged 15-17 across all states in 2017?
+
+I filtered the data to focus on the age-group 15-17, then I clculated the sum of birth rates for women aged 40-44 across all states. I counted the number of states in the dataset, then divided the total sum of birth rates by the number of states to calculate the average birth rate for women aged 40-44. I used the avergae formula:
+
+Average = Total Sum of Birth Rates / Number of States
