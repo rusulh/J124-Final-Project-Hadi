@@ -59,7 +59,7 @@ First, I created a pivot table. In the pivot table I dragged the following field
 Rows: Year
 Values: Pregnancy Count for group age 15-17
 
-<img width="127" alt="total pregnancy count by year   age group 15-17" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/264ed23f-1ef3-41ff-a45e-dabfd7caa77b">
+<img width="125" alt="Screen Shot 2023-08-09 at 10 22 11 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/5ac255d7-c40b-4066-9a9b-7f76d03107e1">
 
 > The total pregnancy count by each year and age group 15-17 is 2405.7
 
