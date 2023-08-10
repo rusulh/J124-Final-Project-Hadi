@@ -71,6 +71,9 @@ Average = Total Sum of Birth Rates / Number of States
 
 > The sum of birth rates for women aged 40-44 across all states is 401.3
 
-I used the formula Average = Total Sum of Birth Rates / Number of States
+then, I used the formula Average = Total Sum of Birth Rates / Number of States
 
+<img width="159" alt="Screen Shot 2023-08-09 at 6 40 45 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/9a2af4b9-c840-4795-8259-9d1daa7e9362">
+
+> The average birth rate for women aged 15-17 across all states in 2017 equals to 7.9
 
