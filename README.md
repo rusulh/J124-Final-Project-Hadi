@@ -21,6 +21,13 @@ I conducted an examination of the [Pregnancies, Births and Abortions Rates in th
 	* Within the Guttmacher Institute, Dr. Kost's research encompasses a variety of subjects essential for comprehending reproductive behaviors and patterns within the United States. This includes examining sexual behavior trends, profiling abortion patients, investigating the health impacts of unintended pregnancies, and providing estimations related to contraceptive effectiveness. I want to ask how she investigates the health impacts and how she is able to prove estimations. 
 
 ### Additional Sources 
+
+1) [Trends in Teen Pregnancy and Childbearing](https://opa.hhs.gov/adolescent-health/reproductive-health-and-teen-pregnancy/trends-teen-pregnancy-and-childbearing)
+* This source provides the proportion of teen births and international comparison.
+* This information can be used to identify additional trends among teen birth rate in the United States over the years
+
+2) 
+
 <h2> Data Visualizations
 
 ### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
