@@ -31,8 +31,8 @@ I conducted an examination of the [Pregnancies, Births and Abortions Rates in th
 
 <h2> Data Visualizations
 
-### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
-<img width="619" alt="Screen Shot 2023-08-09 at 12 00 51 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/2d0ce983-70e2-4d0b-822d-924de251ff17">
+### 1) [Birth Rates in 2017]([https://www.datawrapper.de/_/1AgeA/](https://www.datawrapper.de/_/1AgeA/)
+
 
 ## Data Analysis Process
 I initiated my analysis by performing data cleaning as the initial step. Upon examination, the data displayed a predominantly normalized state, necessitating minimal refinement.
