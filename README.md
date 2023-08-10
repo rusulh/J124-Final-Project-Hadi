@@ -56,3 +56,8 @@ Values: Pregnancy Count for group age 15-17
 2. What was the birth rate for women aged 30-34 in California in 2017?
 
 I filtered and sorted the data to focus on California, then I found the row corresponding to the age-group 30-34 and ientified the birth rate value in the corresponding cell for California and the age-group 30-34.
+
+<img width="1056" alt="Screen Shot 2023-08-09 at 6 18 43 PM" src="https://github.com/rusulh/J124-Final-Project-Hadi/assets/140214843/ff85a6e0-2a90-4b66-81a3-4a3f79cf8003">
+
+> The birth rate among women aged 30 to 40 in 2017 was recorded as 101.7
+
