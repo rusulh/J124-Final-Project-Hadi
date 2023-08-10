@@ -3,7 +3,8 @@
 <h2> By Rusul Hadi</h2>
 <h2> Story Summary; Decades of Choice </h2>
 
-In summary,my analysis of the data reveals that over the past twenty-five years, pregnancy rates have experienced a decline among women aged 24 or younger, whereas there has been an upward trend in rates for those above the age of 30. These observed patterns highlight distinct shifts in birth and abortion rates: The decrease in pregnancy rates among younger individuals can be attributed to reductions in both birth and abortion rates. In contrast, abortion rates among older age-groups have remained relatively steady as birth rates have shown an increase. On a broader scale, the trends at the state level largely align with national trends over time. However, notable geographic variations emerge: In 2017, pregnancy rates were notably higher among younger individuals in the South and Southwest regions, compared to other areas. Conversely, the Northwest and Northeast exhibited elevated pregnancy rates among older age-groups. 
+In summary, In summary, my data analysis identified that over the past twenty-five years, pregnancy rates have experienced a decline among women aged 24 or younger. These observed patterns highlight distinct shifts in birth and abortion rates.
+The trends at the state level largely align with national trends over time. However, notable geographic variations emerge: In 2017, pregnancy rates were notably higher among younger individuals in the South and Southwest regions, compared to other areas. These trends led me to investigate the total pregnancy count in each year among different group ages, as well as how these rates varied. 
 
 <h2>Sourcing</h2>
 I conducted an examination of the "Pregnancies, Births and Abortions Rates in the United States" dataset, which was obtained from the Guttmacher Institute. The crux of my investigation pertains to the statistical counts of pregnancies including births, abortions, and fetal losses from 1973 to 2017.
