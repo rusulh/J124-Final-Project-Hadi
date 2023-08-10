@@ -31,7 +31,7 @@ I conducted an examination of the [Pregnancies, Births and Abortions Rates in th
 
 <h2> Data Visualizations
 
-### 1) [Birth Rates in 2017]([https://www.datawrapper.de/_/1AgeA/](https://www.datawrapper.de/_/1AgeA/)
+### 1) [Birth Rates in 2017](https://www.datawrapper.de/_/1AgeA/)
 
 
 ## Data Analysis Process
