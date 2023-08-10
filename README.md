@@ -33,7 +33,7 @@ Scope of analysis: in the context of a dataset pertains to the specific boundari
 1. Create a pivot table to show the total pregnancy count by each year and age group 15-17?
 2. What was the birth rate for women aged 30-34 in California in 2017?
 3. Calculate the average birth rate for women aged 40-44 across all states in 2017?
-4. Which state had the highest overall birth rate in 2017, and which had the lowest?
+4. Which age group had the highest pregnancy rate in the year 2000?
 5. Which age group had the highest birth rate nationally in 2017, and which had the lowest?
 
 ### Key Assumptions
@@ -77,3 +77,6 @@ then, I used the formula Average = Total Sum of Birth Rates / Number of States
 
 > The average birth rate for women aged 15-17 across all states in 2017 equals to 7.9
 
+4. Which age group had the highest pregnancy rate in the year 2000?
+
+I filtered and sorted the data to focus on the year 2000, then I observed the highest pregnancy rate among the different ages. 
